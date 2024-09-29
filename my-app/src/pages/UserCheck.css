@@ -1,0 +1,39 @@
+.user-check {
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.banner {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  display: block;
+}
+
+.check-button {
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 220px;
+  background-color: #045f07;
+  color: white;
+  border: yellow;
+  cursor: pointer;
+}
+
+.check-button:hover {
+  background-color: #c1b337;
+}
+
+.parking-options {
+  background-color: gray;
+}
